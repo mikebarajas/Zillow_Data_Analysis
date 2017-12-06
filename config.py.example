@@ -1,7 +1,0 @@
-# Team: please enter your own API key below in quotations
-# Save as config.py in your folder for our project repo
-# Our .gitignore has already been set up to ignore your config.py file
-
-# Do not modify the key variable below! It is named in accordance with LCBO documentation for consistency
-
-ACCESS_KEY = ""
